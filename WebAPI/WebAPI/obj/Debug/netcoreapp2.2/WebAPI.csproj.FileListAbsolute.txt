@@ -1,0 +1,99 @@
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\User Registration - API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\JWT Auth with API and Angular 7\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Vova\Desktop\ssssssssss\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Vova\Desktop\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Learn-Programing\Asp.net.core\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Learn-Programing\DTS\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\Learn-Programing\DTS\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
